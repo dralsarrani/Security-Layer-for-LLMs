@@ -162,11 +162,10 @@ A **cost-effective, high-impact** safety solution:
 
 ## 👥 Team Members
 
-* **Haitham Alsaloumi**
-* **Rana Alsulami**
 * **Danah Alsarrani**
+* **Rana Alsulami**
 * **Ghadi Bakhshwain**
-
+* **Haitham Alsaloumi**
 
 
 ## 🛠️ Team Workflow
@@ -184,6 +183,16 @@ We used:
 This project delivers an effective **Security Layer for LLMs**, ensuring safe and responsible interactions.
 With hybrid modeling, synthetic data generation, and UI integration, the system provides reliable protection and forms the foundation for future multilingual safety systems.
 
+## ⭐ Glimpses of Work
+
+### Data
+<img src="https://github.com/dralsarrani/Security-Layer-for-LLMs/blob/main/Image/imageData.png" width="200">
+
+### Performance
+<img src="https://github.com/dralsarrani/Security-Layer-for-LLMs/blob/main/Image/imagePerformance.png" width="200">
+
+### Demo
+<img src="https://github.com/dralsarrani/Security-Layer-for-LLMs/blob/main/Image/imageDemo.jpg" width="200">
 
 
 ## 🙏 Acknowledgments
